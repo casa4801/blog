@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://casa4801.github.io/blog/sitemap.xml 
